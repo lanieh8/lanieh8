@@ -2,12 +2,11 @@
 
 ## Contact <br/>
 
+City, Tennessee
+
+123-456-7890
+
 **lanieharris@yahoo.com**<br/>
-
-731-123-4567
-
-## Overview
-- Upon completing the software engineering bootcamp I am currently enrolled in, I intend to utilize my skills to become either a software engineer or a backend developer.
 
 ## Education
 
@@ -38,6 +37,9 @@
 * Associate at Marco Learning
   
   * January 2024-
+ 
+## Goal
+  - Upon completing the software engineering bootcamp I am currently enrolled in, I intend to utilize my skills to become either a software engineer or a backend developer.
 
 <!--
 **lanieh8/lanieh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
